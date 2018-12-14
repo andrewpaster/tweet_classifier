@@ -1,6 +1,6 @@
 # tweet_classifier
 
-Project is in progress as of December 14th, 2018. Currently contains a notebook that vectorizes text data for a machine learning model and then train the model to predict whether or not tweets are related to disaster relief messages or not. 
+Project is in progress as of December 14th, 2018. Currently contains a notebook that vectorizes text data for a machine learning model (Spacy and Gensim libraries) and then trains the model to predict whether or not tweets are related to disaster relief messages or not. 
 
 TODOs:
 * oversample the 'relevant' class to see if this improves relevant class recall
